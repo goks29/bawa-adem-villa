@@ -1,2 +1,0 @@
-VBA 1, 300000, 2, 1, Ada, 4 Orang
-VBA 2, 400000, 2, 1, Ada, 6 Orang
