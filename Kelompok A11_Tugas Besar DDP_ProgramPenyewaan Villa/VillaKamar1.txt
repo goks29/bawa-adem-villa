@@ -1,0 +1,6 @@
+VBA 1, 300000, 1, 1, Tidak ada, 4 orang
+VBA 2, 300000, 2, 1, Tidak ada, 4 orang
+VBA 3, 300000, 2, 1, Tidak ada, 5 orang
+VBA 4, 450000, 2, 1, Ada, 8 orang
+
+

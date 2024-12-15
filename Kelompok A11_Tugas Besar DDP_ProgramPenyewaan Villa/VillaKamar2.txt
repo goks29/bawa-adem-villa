@@ -1,0 +1,5 @@
+VBA2 1, 700000, 2, 2, Ada, 8 orang
+VBA2 2, 800000, 2, 2, Ada, 10 orang
+VBA2 3, 800000, 2, 2, Ada, 12 orang
+
+
